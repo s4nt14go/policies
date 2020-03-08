@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "COMENTADOtest": "jest",
     "start": "nodemon --exec babel-node -- index.js",
     "test": "fuser -k 3000/tcp; sleep 3; jest"
   },
