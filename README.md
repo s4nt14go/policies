@@ -6,11 +6,11 @@
   </a>
 </p>
 
-### Exercise
+### Description
 
 ![alt text](./exercise.png "Exercise")
 
-### Project usage
+### API usage
 
 Pass url parameter `credentialName` to identify the user asking the information and `name`, `id`, and `policyId` to request the information wanted.
 
